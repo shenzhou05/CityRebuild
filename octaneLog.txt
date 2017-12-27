@@ -1,0 +1,1 @@
+[20:12:46] Authentication error: The host application is not signed by 'Unity Technologies SF' (0x167F0E80)

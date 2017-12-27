@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: d1a9f8989b0bea14a840a9dd09e5ed31
+labels:
+- plant
+- bench
+- sundeck
+- balcony
+- patio
+- terrace
+- lightmaped
+- luxurious
+- high-end
+- night
+- day
+- minimal
+- exterior
+- interior
+- architecture
+- contemporary
+- loft
+- modern
+- realistic
+- urban
+- plane
+- birds
+- sun
+- skyline
+- cityscape
+- city
+- photoreal
+- low-poly
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: Collider
+    100006: couch_02
+    100008: couch_04
+    100010: cushion_01
+    100012: cushion_01 1
+    100014: cushion_02
+    100016: cushion_02 1
+    100018: cushion_03
+    100020: cushion_03 1
+    100022: cushion_04
+    100024: cushion_04 1
+    100026: cushion_05
+    100028: cushion_05 1
+    100030: cushion_06
+    100032: cushion_06 1
+    100034: cushion_07
+    100036: cushion_07 1
+    100038: cushion_08
+    100040: cushion_08 1
+    100042: cushion_09
+    100044: cushion_09 1
+    100046: cushion_10
+    100048: cushion_11
+    100050: cushion_12
+    100052: cushion_13
+    100054: cushion_14
+    100056: cushion_15
+    100058: cushion_16
+    100060: cushion_17
+    100062: cushion_18
+    100064: cushion_19
+    100066: cushion_20
+    100068: cushion_21
+    100070: cushion_22
+    100072: cushion_23
+    100074: cushion_24
+    100076: cushion_25
+    100078: cushion_26
+    100080: light_spot_36
+    100082: light_spot_37
+    100084: light_spot_38
+    100086: light_spot_39
+    100088: light_spot_40
+    100090: light_spot_41
+    100092: light_spot_42
+    100094: light_spot_43
+    100096: light_spot_44
+    100098: light_spot_45
+    100100: lightspot_1
+    100102: lightspot_10
+    100104: lightspot_11
+    100106: lightspot_12
+    100108: lightspot_13
+    100110: lightspot_14
+    100112: lightspot_15
+    100114: lightspot_16
+    100116: lightspot_17
+    100118: lightspot_18
+    100120: lightspot_19
+    100122: lightspot_2
+    100124: lightspot_20
+    100126: lightspot_21
+    100128: lightspot_22
+    100130: lightspot_23
+    100132: lightspot_24
+    100134: lightspot_25
+    100136: lightspot_26
+    100138: lightspot_27
+    100140: lightspot_28
+    100142: lightspot_29
+    100144: lightspot_3
+    100146: lightspot_30
+    100148: lightspot_31
+    100150: lightspot_32
+    100152: lightspot_33
+    100154: lightspot_4
+    100156: lightspot_5
+    100158: lightspot_6
+    100160: lightspot_7
+    100162: lightspot_8
+    100164: lightspot_9
+    100166: plant_01
+    100168: plant_02
+    100170: ramp
+    100172: //RootNode
+    100174: room_04_terrace_A
+    100176: room_04_terrace_B
+    100178: room_04_terrace_C
+    100180: room_04_terrace_D
+    100182: sofa_01
+    100184: sofa_02
+    100186: sound_speaker_01
+    100188: sound_speaker_02
+    100190: sound_speaker_03
+    100192: sound_speaker_04
+    100194: sum_panels
+    100196: sun_lounger_01
+    100198: sun_lounger_02
+    100200: sun_lounger_03
+    100202: table_01
+    100204: table_02
+    100206: table_lamp_01
+    100208: table_lamp_02
+    100210: table_lamp_03
+    100212: table_small_01
+    100214: table_small_02
+    100216: table_small_03
+    100218: towel_01
+    100220: towel_02
+    100222: towel_03
+    100224: wall_01
+    100226: room_04_terrace_glass
+    100228: Room4_glass
+    400000: base
+    400002: base 1
+    400004: Collider
+    400006: couch_02
+    400008: couch_04
+    400010: cushion_01
+    400012: cushion_01 1
+    400014: cushion_02
+    400016: cushion_02 1
+    400018: cushion_03
+    400020: cushion_03 1
+    400022: cushion_04
+    400024: cushion_04 1
+    400026: cushion_05
+    400028: cushion_05 1
+    400030: cushion_06
+    400032: cushion_06 1
+    400034: cushion_07
+    400036: cushion_07 1
+    400038: cushion_08
+    400040: cushion_08 1
+    400042: cushion_09
+    400044: cushion_09 1
+    400046: cushion_10
+    400048: cushion_11
+    400050: cushion_12
+    400052: cushion_13
+    400054: cushion_14
+    400056: cushion_15
+    400058: cushion_16
+    400060: cushion_17
+    400062: cushion_18
+    400064: cushion_19
+    400066: cushion_20
+    400068: cushion_21
+    400070: cushion_22
+    400072: cushion_23
+    400074: cushion_24
+    400076: cushion_25
+    400078: cushion_26
+    400080: light_spot_36
+    400082: light_spot_37
+    400084: light_spot_38
+    400086: light_spot_39
+    400088: light_spot_40
+    400090: light_spot_41
+    400092: light_spot_42
+    400094: light_spot_43
+    400096: light_spot_44
+    400098: light_spot_45
+    400100: lightspot_1
+    400102: lightspot_10
+    400104: lightspot_11
+    400106: lightspot_12
+    400108: lightspot_13
+    400110: lightspot_14
+    400112: lightspot_15
+    400114: lightspot_16
+    400116: lightspot_17
+    400118: lightspot_18
+    400120: lightspot_19
+    400122: lightspot_2
+    400124: lightspot_20
+    400126: lightspot_21
+    400128: lightspot_22
+    400130: lightspot_23
+    400132: lightspot_24
+    400134: lightspot_25
+    400136: lightspot_26
+    400138: lightspot_27
+    400140: lightspot_28
+    400142: lightspot_29
+    400144: lightspot_3
+    400146: lightspot_30
+    400148: lightspot_31
+    400150: lightspot_32
+    400152: lightspot_33
+    400154: lightspot_4
+    400156: lightspot_5
+    400158: lightspot_6
+    400160: lightspot_7
+    400162: lightspot_8
+    400164: lightspot_9
+    400166: plant_01
+    400168: plant_02
+    400170: ramp
+    400172: //RootNode
+    400174: room_04_terrace_A
+    400176: room_04_terrace_B
+    400178: room_04_terrace_C
+    400180: room_04_terrace_D
+    400182: sofa_01
+    400184: sofa_02
+    400186: sound_speaker_01
+    400188: sound_speaker_02
+    400190: sound_speaker_03
+    400192: sound_speaker_04
+    400194: sum_panels
+    400196: sun_lounger_01
+    400198: sun_lounger_02
+    400200: sun_lounger_03
+    400202: table_01
+    400204: table_02
+    400206: table_lamp_01
+    400208: table_lamp_02
+    400210: table_lamp_03
+    400212: table_small_01
+    400214: table_small_02
+    400216: table_small_03
+    400218: towel_01
+    400220: towel_02
+    400222: towel_03
+    400224: wall_01
+    400226: room_04_terrace_glass
+    400228: Room4_glass
+    2300000: base
+    2300002: base 1
+    2300004: Collider
+    2300006: couch_02
+    2300008: couch_04
+    2300010: cushion_01
+    2300012: cushion_01 1
+    2300014: cushion_02
+    2300016: cushion_02 1
+    2300018: cushion_03
+    2300020: cushion_03 1
+    2300022: cushion_04
+    2300024: cushion_04 1
+    2300026: cushion_05
+    2300028: cushion_05 1
+    2300030: cushion_06
+    2300032: cushion_06 1
+    2300034: cushion_07
+    2300036: cushion_07 1
+    2300038: cushion_08
+    2300040: cushion_08 1
+    2300042: cushion_09
+    2300044: cushion_09 1
+    2300046: cushion_10
+    2300048: cushion_11
+    2300050: cushion_12
+    2300052: cushion_13
+    2300054: cushion_14
+    2300056: cushion_15
+    2300058: cushion_16
+    2300060: cushion_17
+    2300062: cushion_18
+    2300064: cushion_19
+    2300066: cushion_20
+    2300068: cushion_21
+    2300070: cushion_22
+    2300072: cushion_23
+    2300074: cushion_24
+    2300076: cushion_25
+    2300078: cushion_26
+    2300080: light_spot_36
+    2300082: light_spot_37
+    2300084: light_spot_38
+    2300086: light_spot_39
+    2300088: light_spot_40
+    2300090: light_spot_41
+    2300092: light_spot_42
+    2300094: light_spot_43
+    2300096: light_spot_44
+    2300098: light_spot_45
+    2300100: lightspot_1
+    2300102: lightspot_10
+    2300104: lightspot_11
+    2300106: lightspot_12
+    2300108: lightspot_13
+    2300110: lightspot_14
+    2300112: lightspot_15
+    2300114: lightspot_16
+    2300116: lightspot_17
+    2300118: lightspot_18
+    2300120: lightspot_19
+    2300122: lightspot_2
+    2300124: lightspot_20
+    2300126: lightspot_21
+    2300128: lightspot_22
+    2300130: lightspot_23
+    2300132: lightspot_24
+    2300134: lightspot_25
+    2300136: lightspot_26
+    2300138: lightspot_27
+    2300140: lightspot_28
+    2300142: lightspot_29
+    2300144: lightspot_3
+    2300146: lightspot_30
+    2300148: lightspot_31
+    2300150: lightspot_32
+    2300152: lightspot_33
+    2300154: lightspot_4
+    2300156: lightspot_5
+    2300158: lightspot_6
+    2300160: lightspot_7
+    2300162: lightspot_8
+    2300164: lightspot_9
+    2300166: plant_01
+    2300168: plant_02
+    2300170: ramp
+    2300172: sound_speaker_01
+    2300174: sound_speaker_02
+    2300176: sound_speaker_03
+    2300178: sound_speaker_04
+    2300180: sum_panels
+    2300182: sun_lounger_01
+    2300184: sun_lounger_02
+    2300186: sun_lounger_03
+    2300188: table_01
+    2300190: table_02
+    2300192: table_lamp_01
+    2300194: table_lamp_02
+    2300196: table_lamp_03
+    2300198: table_small_01
+    2300200: table_small_02
+    2300202: table_small_03
+    2300204: towel_01
+    2300206: towel_02
+    2300208: towel_03
+    2300210: wall_01
+    2300212: room_04_terrace_glass
+    2300214: Room4_glass
+    3300000: base
+    3300002: base 1
+    3300004: Collider
+    3300006: couch_02
+    3300008: couch_04
+    3300010: cushion_01
+    3300012: cushion_01 1
+    3300014: cushion_02
+    3300016: cushion_02 1
+    3300018: cushion_03
+    3300020: cushion_03 1
+    3300022: cushion_04
+    3300024: cushion_04 1
+    3300026: cushion_05
+    3300028: cushion_05 1
+    3300030: cushion_06
+    3300032: cushion_06 1
+    3300034: cushion_07
+    3300036: cushion_07 1
+    3300038: cushion_08
+    3300040: cushion_08 1
+    3300042: cushion_09
+    3300044: cushion_09 1
+    3300046: cushion_10
+    3300048: cushion_11
+    3300050: cushion_12
+    3300052: cushion_13
+    3300054: cushion_14
+    3300056: cushion_15
+    3300058: cushion_16
+    3300060: cushion_17
+    3300062: cushion_18
+    3300064: cushion_19
+    3300066: cushion_20
+    3300068: cushion_21
+    3300070: cushion_22
+    3300072: cushion_23
+    3300074: cushion_24
+    3300076: cushion_25
+    3300078: cushion_26
+    3300080: light_spot_36
+    3300082: light_spot_37
+    3300084: light_spot_38
+    3300086: light_spot_39
+    3300088: light_spot_40
+    3300090: light_spot_41
+    3300092: light_spot_42
+    3300094: light_spot_43
+    3300096: light_spot_44
+    3300098: light_spot_45
+    3300100: lightspot_1
+    3300102: lightspot_10
+    3300104: lightspot_11
+    3300106: lightspot_12
+    3300108: lightspot_13
+    3300110: lightspot_14
+    3300112: lightspot_15
+    3300114: lightspot_16
+    3300116: lightspot_17
+    3300118: lightspot_18
+    3300120: lightspot_19
+    3300122: lightspot_2
+    3300124: lightspot_20
+    3300126: lightspot_21
+    3300128: lightspot_22
+    3300130: lightspot_23
+    3300132: lightspot_24
+    3300134: lightspot_25
+    3300136: lightspot_26
+    3300138: lightspot_27
+    3300140: lightspot_28
+    3300142: lightspot_29
+    3300144: lightspot_3
+    3300146: lightspot_30
+    3300148: lightspot_31
+    3300150: lightspot_32
+    3300152: lightspot_33
+    3300154: lightspot_4
+    3300156: lightspot_5
+    3300158: lightspot_6
+    3300160: lightspot_7
+    3300162: lightspot_8
+    3300164: lightspot_9
+    3300166: plant_01
+    3300168: plant_02
+    3300170: ramp
+    3300172: sound_speaker_01
+    3300174: sound_speaker_02
+    3300176: sound_speaker_03
+    3300178: sound_speaker_04
+    3300180: sum_panels
+    3300182: sun_lounger_01
+    3300184: sun_lounger_02
+    3300186: sun_lounger_03
+    3300188: table_01
+    3300190: table_02
+    3300192: table_lamp_01
+    3300194: table_lamp_02
+    3300196: table_lamp_03
+    3300198: table_small_01
+    3300200: table_small_02
+    3300202: table_small_03
+    3300204: towel_01
+    3300206: towel_02
+    3300208: towel_03
+    3300210: wall_01
+    3300212: room_04_terrace_glass
+    3300214: Room4_glass
+    4300000: Collider
+    4300002: wall_01
+    4300004: ramp
+    4300006: sum_panels
+    4300008: cushion_09
+    4300010: cushion_08
+    4300012: cushion_07
+    4300014: cushion_06
+    4300016: cushion_05
+    4300018: cushion_04
+    4300020: cushion_03
+    4300022: cushion_02
+    4300024: cushion_01
+    4300026: base
+    4300028: cushion_26
+    4300030: cushion_25
+    4300032: cushion_24
+    4300034: cushion_23
+    4300036: cushion_22
+    4300038: cushion_21
+    4300040: cushion_20
+    4300042: cushion_19
+    4300044: cushion_18
+    4300046: cushion_17
+    4300048: cushion_16
+    4300050: cushion_15
+    4300052: cushion_14
+    4300054: cushion_13
+    4300056: cushion_12
+    4300058: cushion_11
+    4300060: cushion_10
+    4300062: cushion_09
+    4300064: cushion_08
+    4300066: cushion_07
+    4300068: cushion_06
+    4300070: cushion_05
+    4300072: cushion_04
+    4300074: cushion_03
+    4300076: cushion_02
+    4300078: cushion_01
+    4300080: base
+    4300082: plant_01
+    4300084: plant_02
+    4300086: couch_02
+    4300088: couch_04
+    4300090: table_01
+    4300092: table_02
+    4300094: sound_speaker_01
+    4300096: sound_speaker_02
+    4300098: sound_speaker_03
+    4300100: sound_speaker_04
+    4300102: towel_01
+    4300104: table_small_01
+    4300106: towel_02
+    4300108: table_small_02
+    4300110: towel_03
+    4300112: table_small_03
+    4300114: table_lamp_03
+    4300116: table_lamp_01
+    4300118: table_lamp_02
+    4300120: sun_lounger_01
+    4300122: sun_lounger_02
+    4300124: sun_lounger_03
+    4300126: lightspot_1
+    4300128: lightspot_2
+    4300130: lightspot_3
+    4300132: lightspot_4
+    4300134: lightspot_5
+    4300136: lightspot_6
+    4300138: lightspot_7
+    4300140: lightspot_8
+    4300142: lightspot_9
+    4300144: lightspot_10
+    4300146: lightspot_11
+    4300148: lightspot_12
+    4300150: lightspot_13
+    4300152: lightspot_14
+    4300154: lightspot_15
+    4300156: lightspot_16
+    4300158: lightspot_17
+    4300160: lightspot_18
+    4300162: lightspot_19
+    4300164: lightspot_20
+    4300166: lightspot_21
+    4300168: lightspot_22
+    4300170: lightspot_23
+    4300172: lightspot_24
+    4300174: lightspot_25
+    4300176: lightspot_26
+    4300178: lightspot_27
+    4300180: lightspot_28
+    4300182: lightspot_29
+    4300184: lightspot_30
+    4300186: lightspot_31
+    4300188: lightspot_32
+    4300190: lightspot_33
+    4300192: light_spot_45
+    4300194: light_spot_44
+    4300196: light_spot_43
+    4300198: light_spot_42
+    4300200: light_spot_41
+    4300202: light_spot_40
+    4300204: light_spot_39
+    4300206: light_spot_38
+    4300208: light_spot_37
+    4300210: light_spot_36
+    4300212: room_04_terrace_glass
+    4300214: Room4_glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

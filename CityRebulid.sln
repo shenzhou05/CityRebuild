@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityRebulid.Plugins", "CityRebulid.Plugins.csproj", "{BCD168EB-5CDF-F9FB-8257-94D56D3A71D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityRebulid", "CityRebulid.csproj", "{1AE2DB99-DAA6-7C64-21EF-3952CEAB829A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityRebulid.Editor", "CityRebulid.Editor.csproj", "{A86D04DC-5C2D-314C-AD78-1298EB2965BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityRebulid.Editor.Plugins", "CityRebulid.Editor.Plugins.csproj", "{26D41D7B-AEC2-6686-F23F-940506384ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD168EB-5CDF-F9FB-8257-94D56D3A71D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD168EB-5CDF-F9FB-8257-94D56D3A71D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD168EB-5CDF-F9FB-8257-94D56D3A71D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD168EB-5CDF-F9FB-8257-94D56D3A71D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE2DB99-DAA6-7C64-21EF-3952CEAB829A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE2DB99-DAA6-7C64-21EF-3952CEAB829A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE2DB99-DAA6-7C64-21EF-3952CEAB829A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE2DB99-DAA6-7C64-21EF-3952CEAB829A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86D04DC-5C2D-314C-AD78-1298EB2965BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86D04DC-5C2D-314C-AD78-1298EB2965BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86D04DC-5C2D-314C-AD78-1298EB2965BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86D04DC-5C2D-314C-AD78-1298EB2965BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D41D7B-AEC2-6686-F23F-940506384ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D41D7B-AEC2-6686-F23F-940506384ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D41D7B-AEC2-6686-F23F-940506384ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D41D7B-AEC2-6686-F23F-940506384ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

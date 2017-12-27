@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 0827c5af7dcf82840a44ec63843e3f4a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: couch_02
+    100006: couch_04
+    100008: couch_blue
+    100010: couch_wooden_02
+    100012: cushion_01
+    100014: cushion_01 1
+    100016: cushion_02
+    100018: cushion_02 1
+    100020: cushion_03
+    100022: cushion_03 1
+    100024: cushion_04
+    100026: cushion_04 1
+    100028: cushion_05
+    100030: cushion_05 1
+    100032: cushion_06
+    100034: cushion_06 1
+    100036: cushion_07
+    100038: cushion_07 1
+    100040: cushion_08
+    100042: cushion_08 1
+    100044: cushion_09
+    100046: cushion_09 1
+    100048: cushion_10
+    100050: cushion_11
+    100052: cushion_12
+    100054: cushion_13
+    100056: cushion_14
+    100058: cushion_15
+    100060: cushion_16
+    100062: cushion_17
+    100064: cushion_18
+    100066: cushion_19
+    100068: cushion_20
+    100070: cushion_21
+    100072: cushion_22
+    100074: cushion_23
+    100076: cushion_24
+    100078: cushion_25
+    100080: cushion_26
+    100082: plant_01
+    100084: plant_02
+    100086: //RootNode
+    100088: sound_speaker_01
+    100090: sun_lounger_01
+    100092: table_01
+    100094: table_02
+    100096: table_small_03
+    100098: towel_03
+    400000: base
+    400002: base 1
+    400004: couch_02
+    400006: couch_04
+    400008: couch_blue
+    400010: couch_wooden_02
+    400012: cushion_01
+    400014: cushion_01 1
+    400016: cushion_02
+    400018: cushion_02 1
+    400020: cushion_03
+    400022: cushion_03 1
+    400024: cushion_04
+    400026: cushion_04 1
+    400028: cushion_05
+    400030: cushion_05 1
+    400032: cushion_06
+    400034: cushion_06 1
+    400036: cushion_07
+    400038: cushion_07 1
+    400040: cushion_08
+    400042: cushion_08 1
+    400044: cushion_09
+    400046: cushion_09 1
+    400048: cushion_10
+    400050: cushion_11
+    400052: cushion_12
+    400054: cushion_13
+    400056: cushion_14
+    400058: cushion_15
+    400060: cushion_16
+    400062: cushion_17
+    400064: cushion_18
+    400066: cushion_19
+    400068: cushion_20
+    400070: cushion_21
+    400072: cushion_22
+    400074: cushion_23
+    400076: cushion_24
+    400078: cushion_25
+    400080: cushion_26
+    400082: plant_01
+    400084: plant_02
+    400086: //RootNode
+    400088: sound_speaker_01
+    400090: sun_lounger_01
+    400092: table_01
+    400094: table_02
+    400096: table_small_03
+    400098: towel_03
+    2300000: base
+    2300002: base 1
+    2300004: couch_02
+    2300006: couch_04
+    2300008: cushion_01
+    2300010: cushion_01 1
+    2300012: cushion_02
+    2300014: cushion_02 1
+    2300016: cushion_03
+    2300018: cushion_03 1
+    2300020: cushion_04
+    2300022: cushion_04 1
+    2300024: cushion_05
+    2300026: cushion_05 1
+    2300028: cushion_06
+    2300030: cushion_06 1
+    2300032: cushion_07
+    2300034: cushion_07 1
+    2300036: cushion_08
+    2300038: cushion_08 1
+    2300040: cushion_09
+    2300042: cushion_09 1
+    2300044: cushion_10
+    2300046: cushion_11
+    2300048: cushion_12
+    2300050: cushion_13
+    2300052: cushion_14
+    2300054: cushion_15
+    2300056: cushion_16
+    2300058: cushion_17
+    2300060: cushion_18
+    2300062: cushion_19
+    2300064: cushion_20
+    2300066: cushion_21
+    2300068: cushion_22
+    2300070: cushion_23
+    2300072: cushion_24
+    2300074: cushion_25
+    2300076: cushion_26
+    2300078: plant_01
+    2300080: plant_02
+    2300082: sound_speaker_01
+    2300084: sun_lounger_01
+    2300086: table_01
+    2300088: table_02
+    2300090: table_small_03
+    2300092: towel_03
+    3300000: base
+    3300002: base 1
+    3300004: couch_02
+    3300006: couch_04
+    3300008: cushion_01
+    3300010: cushion_01 1
+    3300012: cushion_02
+    3300014: cushion_02 1
+    3300016: cushion_03
+    3300018: cushion_03 1
+    3300020: cushion_04
+    3300022: cushion_04 1
+    3300024: cushion_05
+    3300026: cushion_05 1
+    3300028: cushion_06
+    3300030: cushion_06 1
+    3300032: cushion_07
+    3300034: cushion_07 1
+    3300036: cushion_08
+    3300038: cushion_08 1
+    3300040: cushion_09
+    3300042: cushion_09 1
+    3300044: cushion_10
+    3300046: cushion_11
+    3300048: cushion_12
+    3300050: cushion_13
+    3300052: cushion_14
+    3300054: cushion_15
+    3300056: cushion_16
+    3300058: cushion_17
+    3300060: cushion_18
+    3300062: cushion_19
+    3300064: cushion_20
+    3300066: cushion_21
+    3300068: cushion_22
+    3300070: cushion_23
+    3300072: cushion_24
+    3300074: cushion_25
+    3300076: cushion_26
+    3300078: plant_01
+    3300080: plant_02
+    3300082: sound_speaker_01
+    3300084: sun_lounger_01
+    3300086: table_01
+    3300088: table_02
+    3300090: table_small_03
+    3300092: towel_03
+    4300000: cushion_26
+    4300002: cushion_25
+    4300004: cushion_24
+    4300006: cushion_23
+    4300008: cushion_22
+    4300010: cushion_21
+    4300012: cushion_20
+    4300014: cushion_19
+    4300016: cushion_18
+    4300018: cushion_17
+    4300020: cushion_16
+    4300022: cushion_15
+    4300024: cushion_14
+    4300026: cushion_13
+    4300028: cushion_12
+    4300030: cushion_11
+    4300032: cushion_10
+    4300034: cushion_09
+    4300036: cushion_08
+    4300038: cushion_07
+    4300040: cushion_06
+    4300042: cushion_05
+    4300044: cushion_04
+    4300046: cushion_03
+    4300048: cushion_02
+    4300050: cushion_01
+    4300052: base
+    4300054: table_01
+    4300056: cushion_09
+    4300058: cushion_08
+    4300060: cushion_07
+    4300062: cushion_06
+    4300064: cushion_05
+    4300066: cushion_04
+    4300068: cushion_03
+    4300070: cushion_02
+    4300072: cushion_01
+    4300074: base
+    4300076: couch_02
+    4300078: couch_04
+    4300080: table_02
+    4300082: sun_lounger_01
+    4300084: towel_03
+    4300086: table_small_03
+    4300088: plant_01
+    4300090: plant_02
+    4300092: sound_speaker_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
